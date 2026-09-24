@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+scipy
+# DINOv2 feature extraction (heads only; run once per dataset)
+transformers>=4.37
+pillow
